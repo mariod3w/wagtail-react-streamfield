@@ -12,11 +12,11 @@ with open(os.path.join(CURRENT_PATH, 'requirements.txt')) as f:
 
 
 setup(
-    name='wagtail-react-streamfield',
+    name='wagtail-react-streamfield-django-3',
     version=__version__,
-    author='NoriPyt',
-    author_email='contact@noripyt.com',
-    url='https://github.com/noripyt/wagtail-react-streamfield',
+    author='Mario Perdomo',
+    author_email='mariod3w@gmail.com',
+    url='https://github.com/mariod3w/wagtail-react-streamfield',
     description='The brand new Wagtail StreamField!',
     long_description=open('README.rst').read(),
     classifiers=[

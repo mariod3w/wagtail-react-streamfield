@@ -2,5 +2,5 @@
 /.idea/
 /dist/
 /build/
-/wagtail_react_streamfield.egg-info/
+/wagtail_react_streamfield_django_3.egg-info/
 /node_modules/
